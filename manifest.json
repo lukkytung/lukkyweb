@@ -1,6 +1,6 @@
 {
-    "name": "webdemo",
-    "short_name": "webdemo",
+    "name": "lkwebcode",
+    "short_name": "lkwebcode",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
