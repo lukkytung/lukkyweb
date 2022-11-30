@@ -53048,7 +53048,7 @@ return A.a([r,new A.ey(B.yH,new A.qm(A.agb(s,s,new A.p6("assets/images/banner.pn
 N(a){return new A.qH(new A.R_(this),null)}}
 A.R_.prototype={
 $2(a,b){var s=b.b,r=this.a,q=b.a,p=b.c,o=b.d
-if(s>800){s=A.N(1/0,q,s)
+if(s>960){s=A.N(1/0,q,s)
 A.N(1/0,p,o)
 return A.Cb(r.El(s/2),B.qi,B.bq)}else{s=A.N(1/0,q,s)
 A.N(1/0,p,o)
