@@ -3,14 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3c8705cb17a2ac8d6dbe04c004c7a160",
+  "assets/AssetManifest.json": "1522c0be7e86c78b09a856cab3eba405",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d3085f686df272f9e1a267cc69b2d24f",
 "assets/assets/fonts/Montserrat-Regular.ttf": "07689d4eaaa3d530d58826b5d7f84735",
-"assets/assets/images/1.png": "7a43febeb585cba074594b32760aa0f1",
-"assets/assets/images/2.png": "3d08b131b19feaa5f13a9be1f1942bb7",
-"assets/assets/images/3.png": "937119d8814bad15a5f2eea3cec2dac7",
-"assets/assets/images/4.png": "ad07326e924c04cf8a628071d65edc60",
-"assets/assets/images/banner.png": "ee5d8ee50b1c18276cb44d933a3ae07e",
+"assets/assets/images/1.png": "e616c29105ae92b97c45ea355cb3a239",
+"assets/assets/images/2.png": "9798bcfa9501d857ba0c170013883ab7",
+"assets/assets/images/3.png": "937063338cd4841a4be3d483a0da44dd",
+"assets/assets/images/4.png": "85c9a8dfc16fd1415748a823e49d352b",
+"assets/assets/images/5.png": "68763c9bcc15870b9975b985c92a4c8e",
+"assets/assets/images/6.png": "266c4730adb0cba859f71983254a19f3",
+"assets/assets/images/7.png": "b3b85117bf64cf9ace788010a9973bee",
+"assets/assets/images/banner.png": "8d5d22e1ee1925112062380a4ba0eb5a",
 "assets/assets/images/icon/OpenSea-fill.png": "b2d383a4377e604921e408de20d2d4ec",
 "assets/assets/images/lp_image.png": "5aad4d4216174954f5228d7d268546e8",
 "assets/FontManifest.json": "1a726564c73eb44d252c69c6eb91fd93",
@@ -24,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "435ddeb3b943486bc0b7ae76223ae47c",
 "icons/Icon-maskable-192.png": "b268696f2afbaf7bba43a782d1b4484e",
 "icons/Icon-maskable-512.png": "85c4ab22219b23c40cd806df001165e7",
-"index.html": "ec1098e63ba6599d165c8e8b0c0c354d",
-"/": "ec1098e63ba6599d165c8e8b0c0c354d",
-"main.dart.js": "6862bd1b16c1fe5d9eb0b56c049a4164",
+"index.html": "88d06278db6e72a88b7a0b2430779d9d",
+"/": "88d06278db6e72a88b7a0b2430779d9d",
+"main.dart.js": "703ad875c80cb4282cef2d1b28c194a2",
 "manifest.json": "886bc1f8c801a246ad4fd14516b32bd3",
 "version.json": "82ebdf21f62c0d1f26268407b50e0d90"
 };

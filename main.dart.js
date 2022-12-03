@@ -56804,10 +56804,10 @@ A.BU.prototype={
 J(a){var s=null,r=t.E
 return A.kL(A.a([A.kL(A.a([A.dK("ABOUT",s,s,A.cA(s,s,B.h,s,s,s,s,s,s,s,s,40,s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.c_(s,10,s),A.dK(u.F,s,s,A.cA(s,s,B.n,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.c_(s,40,s),A.dK("OVERVIEW",s,s,A.cA(s,s,B.h,s,s,s,s,s,s,s,s,40,s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.c_(s,10,s),A.kL(A.a([A.eX(A.a([A.nb(B.bx,B.bB,16),A.c_(s,s,5),A.dK("Membership",s,s,A.cA(s,s,B.n,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],r),B.H,B.R,B.a0),A.c_(s,s,20),A.eX(A.a([A.nb(B.bx,B.bB,16),A.c_(s,s,5),A.dK("Premium Utility",s,s,A.cA(s,s,B.n,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],r),B.H,B.R,B.a0),A.c_(s,s,20),A.eX(A.a([A.nb(B.bx,B.bB,16),A.c_(s,s,5),A.dK("9,999 Supply",s,s,A.cA(s,s,B.n,s,s,s,s,s,s,s,s,16,s,s,B.p,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],r),B.H,B.R,B.a0)],r),B.H,B.R),A.c_(s,10,s),A.dK(u.h,s,s,A.cA(s,s,B.fj,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],r),B.cX,B.R),A.fq("assets/images/banner.png",this.c*0.8)],r),B.H,B.R)}}
 A.zU.prototype={
-J(a){var s="assets/images/1.png",r=null,q="assets/images/2.png",p="assets/images/3.png",o=A.eX(B.BH,B.H,B.R,B.a0),n=this.c,m=A.fq(s,r),l=A.fq(q,r),k=A.fq(p,r),j=A.fq(s,r),i=A.fq(q,r),h=A.fq(q,r),g=A.fq(p,r),f=t.E
-g=A.a([m,l,k,j,i,h,g,A.NX(r,A.Nn(new A.rW(new A.Ox(),A.dK("More NFTs",r,r,A.cA(r,r,B.h,r,r,r,r,r,r,r,r,n>960?40:20,r,r,B.a_,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),r),r,r),r,B.vf,r,r,r)],f)
-h=A.aP([null,0],t.st,t.S)
-return A.kL(A.a([o,B.FZ,A.c_(new A.B7(new A.Zw(4,0,0,1),new A.Zs(!0,!0,!0,g,h),r,B.aw,!1,r,!1,B.Ee,!1,r,8,B.aT,B.EY,r,B.a3,r),n*0.5,r)],f),B.H,B.R)}}
+J(a){var s=null,r=A.eX(B.BH,B.H,B.R,B.a0),q=this.c,p=A.fq("assets/images/1.png",s),o=A.fq("assets/images/2.png",s),n=A.fq("assets/images/3.png",s),m=A.fq("assets/images/4.png",s),l=A.fq("assets/images/5.png",s),k=A.fq("assets/images/6.png",s),j=A.fq("assets/images/7.png",s),i=t.E
+j=A.a([p,o,n,m,l,k,j,A.NX(s,A.Nn(new A.rW(new A.Ox(),A.dK("More NFTs",s,s,A.cA(s,s,B.h,s,s,s,s,s,s,s,s,q>960?40:16,s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s),s,s),s,B.vf,s,s,s)],i)
+k=A.aP([null,0],t.st,t.S)
+return A.kL(A.a([r,B.FZ,A.c_(new A.B7(new A.Zw(4,0,0,1),new A.Zs(!0,!0,!0,j,k),s,B.aw,!1,s,!1,B.Ee,!1,s,8,B.aT,B.EY,s,B.a3,s),q*0.5,s)],i),B.H,B.R)}}
 A.Ox.prototype={
 $0(){B.jQ.wJ(window,"https://opensea.io/","_blank")},
 $S:0}
