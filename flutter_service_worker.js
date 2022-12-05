@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "19706430c94e29cece5c9c447ec46e52",
+  "assets/AssetManifest.json": "6fd4ffd3d4c585d53f07f802110e5a49",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d3085f686df272f9e1a267cc69b2d24f",
 "assets/assets/fonts/Montserrat-Regular.ttf": "07689d4eaaa3d530d58826b5d7f84735",
 "assets/assets/images/1.png": "e616c29105ae92b97c45ea355cb3a239",
@@ -15,6 +15,7 @@ const RESOURCES = {
 "assets/assets/images/7.png": "b3b85117bf64cf9ace788010a9973bee",
 "assets/assets/images/airship.png": "43074d79be93e0a8bd341c506df15423",
 "assets/assets/images/banner.png": "8d5d22e1ee1925112062380a4ba0eb5a",
+"assets/assets/images/dogox.png": "21d083ae217f2a71c6e8765c005a327f",
 "assets/assets/images/icon/OpenSea-fill.png": "b2d383a4377e604921e408de20d2d4ec",
 "assets/FontManifest.json": "1a726564c73eb44d252c69c6eb91fd93",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -27,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "435ddeb3b943486bc0b7ae76223ae47c",
 "icons/Icon-maskable-192.png": "b268696f2afbaf7bba43a782d1b4484e",
 "icons/Icon-maskable-512.png": "85c4ab22219b23c40cd806df001165e7",
-"index.html": "cac0baff2cc5160a1de6993842411898",
-"/": "cac0baff2cc5160a1de6993842411898",
-"main.dart.js": "692fb399fd936a6d9198229c0fa6446a",
+"index.html": "299840f58e91a73176b316554c511e2c",
+"/": "299840f58e91a73176b316554c511e2c",
+"main.dart.js": "96faf7b8ce355675b8444109ca529fc0",
 "manifest.json": "886bc1f8c801a246ad4fd14516b32bd3",
 "version.json": "82ebdf21f62c0d1f26268407b50e0d90"
 };
